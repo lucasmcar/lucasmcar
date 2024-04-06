@@ -15,9 +15,36 @@ Status
 
 ![Lucasmcar's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasmcar&show_icons=true&theme=radical)
 
-Algumas das linguagens que mais uso: 
+## Algumas das linguagens que mais uso: 
 
 ![Lucasmcar's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasmcar&layout=compact)
+
+<div>
+  <img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
+  
+  <img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+  
+  <img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg" />
+  
+  <img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularjs/angularjs-plain.svg" />
+  
+  <img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" />
+  
+  <img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
+
+  <img  height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" />
+
+  <img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
+
+  <img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
+
+  <img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
+
+</div>
+
+
+          
+
 
 ## Projetos
 
@@ -48,6 +75,14 @@ Algumas das linguagens que mais uso:
 
   [Oficina Conectada - Front mobile]
   [Oficina Conectada - Backend]
+
+  ## Contato
+
+  <a href="https://linkedin.com/in/lucas-m-carvalho">
+
+    <img height="64" width="64" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />
+
+  </a>
 
   
 
