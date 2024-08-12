@@ -2,8 +2,8 @@
 
 ## Sobre
 
-Tenho 33 anos
-Amante de tecnologia, sou programador PHP mas sem amarras, procuro me adaptar a qualquer linguagem de programação.
+Tenho 34 anos
+Amante de tecnologia, sou programador PHP mas sem amarras, procuro me adaptar a qualquer linguagem de programação ou framework.
 Sou fullstack, com maior foco no backend, mas me aventuro também no front
 Estou sempre estudando e desenvolvendo novas ideias, mesmo que as vezes não consiga tirar do papel.
 Estou também abrindo um canal para ensinar programação a novos futuros programadores, 
@@ -15,7 +15,7 @@ Status
 
 ![Lucasmcar's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasmcar&show_icons=true&theme=radical)
 
-## Algumas das linguagens que mais uso: 
+## Algumas das linguagens / frameworks que mais uso: 
 
 ![Lucasmcar's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasmcar&layout=compact)
 
@@ -76,6 +76,11 @@ Status
   [Oficina Conectada - Front mobile]
   [Oficina Conectada - Backend]
 
+  - Gestão de Estoque
+    É um projeto, voltado para empresas para gerenciamento de controle de estoque, com configuração de permissão de acesso de usuário colaborador,
+    podendo acessar o sistema somente enquanto o parametro estiver ativo. A ideia é que se possa ter uma gerencia de estoque completa e mais segura
+    Para este projeto, estou utilizando Angular com Firebase
+
   ## Contato
 
   <a href="https://linkedin.com/in/lucas-m-carvalho">
@@ -83,6 +88,8 @@ Status
     <img height="64" width="64" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />
 
   </a>
+
+  Discord: @lucasmcar
 
   
 
